@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gallery Photo</string>
+    <string name="photographer">Romain Guy</string>
+    <string name="image_1">Against The Flow</string>
+    <string name="image_2">Beacon</string>
+    <string name="image_3">Blue Steel</string>
+    <string name="image_4">Cineon</string>
+    <string name="image_5">City Fold</string>
+    <string name="image_6">In The Dead Of Winter</string>
+    <string name="image_7">Looking Glass</string>
+    <string name="image_8">Lost At Sea</string>
+    <string name="image_9">Mirrors</string>
+    <string name="image_10">Old vs New</string>
+    <string name="image_11">Parting Ways</string>
+    <string name="image_12">Smooth Tokyo</string>
+    <string name="image_13">Still Flow</string>
+    <string name="image_14">Streaks</string>
+    <string name="image_15">The In Between</string>
+    <string name="image_16">Tower Sunset</string>
+    <string name="image_17">Towering</string>
+    <string name="image_18">Waiting</string>
+    <string name="image_19">Walk</string>
+    <string name="image_20">Weave</string>
+
+    <string name="location_roppongi">Roppongi, Tokyo</string>
+    <string name="location_shinjuku">Shinjuku, Tokyo</string>
+    <string name="location_ginza">Ginza, Tokyo</string>
+    <string name="location_harajuku">Harajuku, Tokyo</string>
+    <string name="location_shibuya">Shibuya</string>
+
+
+</resources>
